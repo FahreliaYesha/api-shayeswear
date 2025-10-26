@@ -1,4 +1,4 @@
-const API_URL = "../public/portofolio.json"; 
+const API_URL = "https://api-shayeswear.vercel.app/api/products"; 
 
 const portfolioContainer = document.getElementById("portfolio-container");
 const loadingText = document.getElementById("loading");
